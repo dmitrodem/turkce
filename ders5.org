@@ -1,0 +1,282 @@
+** Словарь
+|-------------------------------+------------------------------------------|
+| ağlamak                       | плакать                                  |
+| almak                         | брать, взять                             |
+| anlamak                       | понимать                                 |
+| anlatmak                      | объяснять, рассказывать                  |
+| ay                            | месяц                                    |
+| bakmak                        | смотреть                                 |
+| beklemek                      | ждать                                    |
+| bulaşıkları yıkamak           | мыть посуду                              |
+| çalışmak                      | работать                                 |
+| (keman) çalmak                | играть на скрипке                        |
+| çıkmak                        | 1) выходить 2) подниматься 3) появляться |
+| Çok güzel!                    | Очень хорошо!                            |
+| dışarı çıkmak                 | выйти на улицу, наружу                   |
+| dinlemek                      | слушать                                  |
+| dinlenmek                     | отдыхать                                 |
+| dönmek                        | возвращаться                             |
+| fotoğraf çekmek               | фотофафировать                           |
+| gelmek                        | приходить                                |
+| girmek                        | входить                                  |
+| gitmek                        | идти, ходить, уходить                    |
+| görmek                        | видеть                                   |
+| gün                           | день                                     |
+| içmek                         | пить                                     |
+| istemek                       | хотеть                                   |
+|-------------------------------+------------------------------------------|
+| kaç                           | сколько                                  |
+| kahvaltı yapmak               | завтракать                               |
+| kalkmak                       | вставать                                 |
+| konuşmak                      | говорить                                 |
+| mevsim                        | сезон                                    |
+| okumak                        | читать, учиться                          |
+| (satranç) oynamak             | играть (в шахматы)                       |
+| sevmek                        | любить                                   |
+| sigara içmek                  | курить                                   |
+| söylemek                      | сказать                                  |
+| (çiçekleri) sulamak           | поливать (цветы)                         |
+| susmak                        | молчать                                  |
+| şarkı söylemek                | петь песни                               |
+| tekrarlamak                   | повторять                                |
+| telefon etmek                 | звонить                                  |
+| televizyon izlemek, seyretmek | смотреть телевизор                       |
+| temizlemek                    | чистить, убирать                         |
+| uyumak                        | спать                                    |
+| vermek                        | давать                                   |
+| yardım etmek                  | помогать                                 |
+| yazmak                        | писать                                   |
+| yemek                         | есть                                     |
+| yıl                           | год                                      |
+| yüzmek                        | плавать                                  |
+|-------------------------------+------------------------------------------|
+
+** Отрицательная форма
+| Лицо  | Аффикс      | Пример           |
+|-------+-------------+------------------|
+| (Ben) | -           | -                |
+| Sen   |             | Sen konuş        |
+| O     | sın         | O konsuşsun      |
+| (Biz) | -           | -                |
+| Siz   | ın или ınız | Siz konuşun(uz)  |
+| Onlar | sınlar      | Onlar konşsunlar |
+
+
+| читай               | oku                 |
+| говорите            | konuşun             |
+| пусть они войдут    | girsinler           |
+| приходи             | gel                 |
+| отдыхайте           | dinlenin            |
+| слушайте            | dinleyin            |
+| пусть он завтракает | kahvaltı yapsın     |
+| повторите           | tekrarlayın         |
+| пусть они учатся    | okusunlar           |
+| спите               | uyuyun              |
+| возвращайся         | dön                 |
+| молчи               | sus                 |
+| мойте посуду        | bulaşıkları yıkayın |
+
+** Отрицательная форма повелительного наклонения
+Добавляется аффикс -ma, -me
+
+| (Ben) | - | -                 | -                   |
+| Sen   |   | Sen okuma         | Sen bekleme         |
+| O     |   | O okumasın        | O beklemesin        |
+| (Biz) | - | -                 | -                   |
+| Siz   |   | Siz okumayın      | Siz beklemeyin      |
+| Onlar |   | Onlar okumasınlar | Onlar beklemesinler |
+
+** Вопросительная форма повелительного наклонения
+
+| (Ben) | -                                |                                   |
+| (Sen) | -                                |                                   |
+| O     | O okusun mu? (Ему читать?)       | O okumasın mı? (Ему не читать?)   |
+| (Biz) | -                                | -                                 |
+| (Siz) | -                                | -                                 |
+| Onlar | Onlar okusunlar mı? (Им читать?) | O okumasınlar mı? (Им не читать?) |
+
+** Настоящее время данного момента (-[ı]yor)
+
+1. Если на гласный u
+   oku + yor = okuyor
+2. На любой другой гласный -- смотрим на предыдущий слог (гармония)
+   anla + yor = anlıyor
+   bekle + yor = bekliyor
+   oyna + yor = oynuyor
+   söyle + yor = söylüyor
+3. На согласный -- по правилам гармонии для последнего слога
+   yap + yor = yapıyor, ısın + yor = ısınıyor
+   gel + yor = geliyor, gir + yor = giriyor
+   konuş + yor = konuşuyor, kaybol + yor = kayboluyor
+   dön + yor = dönüyor, yüz + yor = yüzüyor   
+4. Изменение глухого на звонкий в словах:
+   gitmek → gidiyor
+   etmek  → ediyor
+   
+** Отрицательная форма
+
+Добавляем к основе глагола аффикс -ma,-me (он превращается в -mı,-mi,-mu,-mü по правилам гармонии)
+
+| Ben   | okumuyorum    |
+| Sen   | okumuyorsun   |
+| O     | okumuyor      |
+| Biz   | okumuyoruz    |
+| Siz   | okumuyorsunuz |
+| Onlar | okumuyorlar   |
+
+** Вопросительная форма
+
+| Ben okuyor muyum?   |   | Ben okumuyor muyum?   |
+| Sen okuyor musun?   |   | Sen okumuyor musun?   |
+| O okuyor mu?        |   | O okumuyor mu?        |
+| Biz okuyor muyz?    |   | Biz okumuyor muyuz?   |
+| Siz okuyor musunuz? |   | Siz okumuyor musunuz? |
+| Onlar okuyorlar mı? |   | Onlar okumuyorlar mı? |
+
+** упражнение A
+istemek (хотеть)
+   
+| Ben   | istiyorum    | istemiyorum    | istiyor muyum?   |
+| Sen   | istiyorsun   | istemiyorsun   | istiyor musun?   |
+| O     | istiyor      | istemiyor      | istiyor mu?      |
+| Biz   | istiyoruz    | istemiyoruz    | istiyor muyuz?   |
+| Siz   | istiyorsunuz | istemiyorsunuz | istiyor musunuz? |
+| Onlar | istiyorlar   | istemiyorlar   | istiyorlar mı?   |
+
+yazmak (писать)
+| Ben   | yazıyorum    | yazmıyorum    | yazıyor muyum?   |
+| Sen   | yazıyorsun   | yazmıyorsun   | yazıyor musun?   |
+| O     | yazıyor      | yazmıyor      | yazıyor mu?      |
+| Biz   | yazıyoruz    | yazmıyoruz    | yazıyor muyuz?   |
+| Siz   | yazıyorsunuz | yazmıyorsunuz | yazıyor musunuz? |
+| Onlar | yazıyorlar   | yazmıyorlar   | yazıyorlar mı?   |
+
+konuşmak (говорить)
+| Ben   | konuşuyorum    | konuşmuyorum    | konuşuyor muyum?   |
+| Sen   | konuşuyorsun   | konuşmuyorsun   | konuşuyor musun?   |
+| O     | konuşuyor      | konuşmuyor      | konuşuyor mu?      |
+| Biz   | konuşuyoruz    | konuşmuyoruz    | konuşuyor muyuz?   |
+| Siz   | konuşuyorsunuz | konuşmuyorsunuz | konuşuyor musunuz? |
+| Onlar | konuşuyorlar   | konuşmuyorlar   | konuşuyorlar mı?   |
+
+söylemek (сказать)
+| Ben   | söylüyorum    | söylemiyorum    | söylüyor muyum?   |
+| Sen   | söylüyorsun   | söylemiyorsun   | söylüyor musun?   |
+| O     | söylüyor      | söylemiyor      | söylüyor mu?      |
+| Biz   | söylüyoruz    | söylemiyoruz    | söylüyor muyuz?   |
+| Siz   | söylüyorsunuz | söylemiyorsunuz | söylüyor musunuz? |
+| Onlar | söylüyorlar   | söylemiyorlar   | söylüyorlar mı?   |
+
+dönmek (возвращаться)
+| Ben   | dönüyorum    | dönmüyorum    | dönüyor muyum?   |
+| Sen   | dönüyorsun   | dönmüyorsun   | dönüyor musun?   |
+| O     | dönüyor      | dönmüyor      | dönüyor mu?      |
+| Biz   | dönüyoruz    | dönmüyoruz    | dönüyor muyuz?   |
+| Siz   | dönüyorsunuz | dönmüyorsunuz | dönüyor musunuz? |
+| Onlar | dönüyorlar   | dönmüyorlar   | dönüyorlar mı?   |
+
+susmak (молчать)
+| Ben   | susuyorum    | susmuyorum    | susuyor muyum?   |
+| Sen   | susuyorsun   | susmuyorsun   | susuyor musun?   |
+| O     | susuyor      | susmuyor      | susuyor mu?      |
+| Biz   | susuyoruz    | susmuyoruz    | susuyor muyuz?   |
+| Siz   | susuyorsunuz | susmuyorsunuz | susuyor musunuz? |
+| Onlar | susuyorlar   | susmuyorlar   | susuyorlar mı?   |
+
+gelmek (приходить)
+| Ben   | geliyorum    | gelmiyorum    | geliyor muyum?   |
+| Sen   | geliyorsun   | gelmiyorsun   | geliyor musun?   |
+| O     | geliyor      | gelmiyor      | gelmiyor mu?     |
+| Biz   | geliyoruz    | gelmiyoruz    | geliyor muyuz?   |
+| Siz   | geliyorsunuz | gelmiyorsunuz | geliyor musunuz? |
+| Onlar | geliyorlar   | gelmiyorlar   | geliyorlar mı?   |
+
+gitmek (идти)
+| Ben   | gidiyorum    | gidmiyorum    | gidiyor muyum?   |
+| Sen   | gidiyorsun   | gidmiyorsun   | gidiyor musun?   |
+| O     | gidiyor      | gidmiyor      | gidiyor mu?      |
+| Biz   | gidiyoruz    | gidmiyoruz    | gidiyor muyuz?   |
+| Siz   | gidiyorsunuz | gidmiyorsunuz | gidiyor musunuz? |
+| Onlar | gidiyorlar   | gidmiyorlar   | gidiyorlar mı?   |
+
+bakmak (смотреть)
+| Sen   | bakıyorum    | bakmıyorum    | bakıyor muyum?   |
+| Ben   | bakıyorsun   | bakmıyorsun   | bakıyor musun?   |
+| O     | bakıyor      | bakmıyor      | bakıyor mu?      |
+| Biz   | bakıyoruz    | bakmıyoruz    | bakıyor muyuz?   |
+| Siz   | bakıyorsunuz | bakmıyorsunuz | bakıyor musunuz? |
+| Onlar | bakıyorlar   | bakmıyorlar   | bakıyorlar mı?   |
+
+sevmek (любить)
+| Ben   | seviyorum    | sevmiyorum    | seviyor muyum?   |
+| Sen   | seviyorsun   | sevmiyorsun   | seviyor musun?   |
+| O     | seviyor      | sevmiyor      | seviyor mu?      |
+| Biz   | seviyoruz    | sevmiyoruz    | seviyor muyuz?   |
+| Siz   | seviyorsunuz | sevmiyorsunuz | seviyor musunuz? |
+| Onlar | seviyorlar   | sevmiyorlar   | seviyorlar mı?   |
+
+** упражнение B
+| bekliyor           | beklemek     | ждет           |
+| geliyor musun      | gelmek       | придешь?       |
+| yazmıyorum         | yazmak       | не пишу        |
+| konuşuyorum        | konuşmak     | говорю         |
+| dinleniyor musunuz | dinlenmek    | отдыхаете?     |
+| beklemiyorlar mı   | beklemek     | не ждут?       |
+| yardım ediyorlar   | yardım etmek | помогают       |
+| söylüyor           | söylemek     | говорит        |
+| istemiyor musunuz  | istemek      | не хотите?     |
+| sormuyorsun        | sormak       | не спрашиваешь |
+| giriyoruz          | girmek       | входим         |
+| anlamıyoruz        | anlamak      | не понимаем    |
+| dinlemiyorsun      | dinlemek     | не слушаешь    |
+| okumuyorlar mı     | okumak       | не читают?     |
+| susuyor            | susmak       | молчит         |
+| gidiyoruz          | gitmek       | идем           |
+| gelmiyorlar        | gelmek       | не придут      |
+| istiyor musun      | istemek      | хочешь?        |
+| çalışmıyorsunuz    | çalışmak     | не работаете   |
+| seviyorum          | sevmek       | люблю          |
+
+** упражнение C
+
+| Bahçıvan bahçeyi temizliyor       | Садовник убирает сад           |
+| Örenciler şarkı söyliyorlar       | Ученики поют песни             |
+| Dedem masal anlatıyor             | Дедушка рассказывает сказку    |
+| Kardeşim ve ben satranç oynuyoruz | Мы с друзьями играем в шахматы |
+| Onlar denizde yüzüyorlar          | Они плавают в море             |
+| Babam bahçede çiçekleri suluyor   | Отец в саду поливает цветы     |
+| Annem mutfakta bulaşıkarı yıkıyor | Мама на кухне моет посуду      |
+| Öğretmen sınıfta ders anlatıyor   | Учитель в классе ведет урок    |
+| Ali televisyon izliyor            | Али смотрит телевизор          |
+| Kuşlar dalda şarkı söylüyorlar    | Птицы на ветках поют песни     |
+| Ben sigara içmiyorum              | Я курю сигару                  |
+| Babam kahvaltı yapıyor            | Отец завтракает                |
+| Annem süpermakete gidiyor         | Мама идет в супермаркет        |
+
+** упражнение D
+| çalmak    |   |
+| çekmek    |   |
+| seyretmek |   |
+| dinlemek  |   |
+| yemek     |   |
+| oynamak   |   |
+
+| Kahvaltıda patates yiyor musunuz? | Вы завтракаете картошкой?      |
+| Biz radyo dinliyoruz              | Мы слушаем радио               |
+| Selman çok güzel gitar çalıyor    | Селман хорошо играет на гитаре |
+| Sen çok güzel fotoğraf çekiyorsun | Ты хорошо фотографируешь       |
+| Fatih çok güzel tenis oynuyor     | Фатих хорошо играет в тенис    |
+
+** упражнение E
+
+| Ali   | Merhaba Sadık.                          |
+| Sadık | Merhaba Ali.                            |
+| Ali   | Ne yapıyorsun burada?                   |
+| Sadık | Dondurma yiyorum. Sen de istiyor musun? |
+| Ali   | Evet, iyi olur.                         |
+| Sadık | Nasıl dondurma istiyorsun?              |
+| Ali   | Kremalı dondurma istiyorum.             |
+
+| Sadık nerede?                 | Sadık burada                 |
+| Sadık ne yiyor?               | Sadık dondurma yiyor         |
+| Ali hangi dondurmayı seviyor? | Ali kremalı dondurma seviyor |
